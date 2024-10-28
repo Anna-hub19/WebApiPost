@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocPostgress.WebApi", "PocPostgress\PocPostgress.WebApi.csproj", "{7C926C15-C8F0-490D-A2FD-1C865AEF7732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocPostgress.Repository", "PocPostgress.Repository\PocPostgress.Repository.csproj", "{1852B08C-3810-41A3-8A65-B93A97E22215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocPostegress.Domain", "Postegress.Domain\PocPostegress.Domain.csproj", "{C6E8632B-B825-4AC8-B7A6-79D54DD88DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pocpostgress.DataBase", "pocpostgress.DataBase\Pocpostgress.DataBase.csproj", "{8A06D140-3B58-435C-AA17-336E055B2CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocPostgress.Execoes", "PocPostgress.Exeções\PocPostgress.Execoes.csproj", "{8E8AE74F-2C6F-43A5-A7BF-DD3FF7B771C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocPostgress.Services", "PocPostgress.Services\PocPostgress.Services.csproj", "{B6226A74-3785-4491-9DC6-E250A6F92887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C926C15-C8F0-490D-A2FD-1C865AEF7732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C926C15-C8F0-490D-A2FD-1C865AEF7732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C926C15-C8F0-490D-A2FD-1C865AEF7732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C926C15-C8F0-490D-A2FD-1C865AEF7732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1852B08C-3810-41A3-8A65-B93A97E22215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1852B08C-3810-41A3-8A65-B93A97E22215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1852B08C-3810-41A3-8A65-B93A97E22215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1852B08C-3810-41A3-8A65-B93A97E22215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E8632B-B825-4AC8-B7A6-79D54DD88DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E8632B-B825-4AC8-B7A6-79D54DD88DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E8632B-B825-4AC8-B7A6-79D54DD88DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E8632B-B825-4AC8-B7A6-79D54DD88DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A06D140-3B58-435C-AA17-336E055B2CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A06D140-3B58-435C-AA17-336E055B2CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A06D140-3B58-435C-AA17-336E055B2CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A06D140-3B58-435C-AA17-336E055B2CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8AE74F-2C6F-43A5-A7BF-DD3FF7B771C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8AE74F-2C6F-43A5-A7BF-DD3FF7B771C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8AE74F-2C6F-43A5-A7BF-DD3FF7B771C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8AE74F-2C6F-43A5-A7BF-DD3FF7B771C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6226A74-3785-4491-9DC6-E250A6F92887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6226A74-3785-4491-9DC6-E250A6F92887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6226A74-3785-4491-9DC6-E250A6F92887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6226A74-3785-4491-9DC6-E250A6F92887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811CC28A-5195-46FC-BC31-FD39B31EA0D2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\bin\Debug\net6.0\pocpostgress.DataBase.deps.json
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\bin\Debug\net6.0\pocpostgress.DataBase.runtimeconfig.json
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\bin\Debug\net6.0\pocpostgress.DataBase.dll
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\bin\Debug\net6.0\pocpostgress.DataBase.pdb
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.csproj.AssemblyReference.cache
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.AssemblyInfoInputs.cache
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.AssemblyInfo.cs
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.csproj.CoreCompileInputs.cache
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.dll
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\refint\pocpostgress.DataBase.dll
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.pdb
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\pocpostgress.DataBase.genruntimeconfig.cache
+C:\Projetos\POC\PocPostgress\pocpostgress.DataBase\obj\Debug\net6.0\ref\pocpostgress.DataBase.dll
